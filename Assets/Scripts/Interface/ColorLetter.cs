@@ -11,6 +11,7 @@ public class ColorLetter : MonoBehaviour
 
     private Button button;
 
+    //configura el comportamiento visual de un botón al interactuar con el cursor o clics del usuario.
     void Start()
     {
         button = GetComponent<Button>();
@@ -29,6 +30,7 @@ public class ColorLetter : MonoBehaviour
         AddEventTrigger(eventTrigger, UnityEngine.EventSystems.EventTriggerType.PointerUp, () => buttonText.color = hoverColor);
     }
 
+    //agrega dinámicamente eventos personalizados a un EventTrigger.
     private void AddEventTrigger(UnityEngine.EventSystems.EventTrigger trigger, UnityEngine.EventSystems.EventTriggerType eventType, System.Action action)
     {
         var entry = new UnityEngine.EventSystems.EventTrigger.Entry { eventID = eventType };
