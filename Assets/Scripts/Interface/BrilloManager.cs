@@ -3,16 +3,15 @@ using UnityEngine;
 public class BrilloManager : MonoBehaviour
 {
     public static BrilloManager Instance { get; private set; }
-    private float brilloActual = 0.35f; // Brillo por defecto
+    private float brilloActual = 0.35f;
 
+    //garantiza que solo haya una instancia de un objeto en la escena
     void Awake()
     {
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); // No destruir al cambiar de escena
-
-            // Cargar brillo almacenado si existe
+            DontDestroyOnLoad(gameObject); 
             brilloActual = PlayerPrefs.GetFloat("Brillo", 0.35f);
         }
         else
@@ -21,6 +20,7 @@ public class BrilloManager : MonoBehaviour
         }
     }
 
+    //actualiza y guarda el nivel de brillo en (PlayerPrefs)
     public void SetBrillo(float valor)
     {
         brilloActual = valor;
@@ -28,6 +28,7 @@ public class BrilloManager : MonoBehaviour
         PlayerPrefs.Save();
     }
 
+    //devuelve el valor actual del brillo almacenado en la variable (brilloActual)
     public float GetBrillo()
     {
         return brilloActual;
