@@ -268,6 +268,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -657,6 +661,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -790,6 +798,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1201,6 +1213,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1334,6 +1350,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1534,6 +1554,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1655,6 +1679,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1778,6 +1806,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1899,6 +1931,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
       propertyPath: m_Name
       value: TestTube (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2118,6 +2154,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2368,6 +2408,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2490,6 +2534,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2560,6 +2608,142 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -2659785137198720376, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+--- !u!1 &106882680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 106882681}
+  - component: {fileID: 106882683}
+  - component: {fileID: 106882682}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &106882681
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 106882680}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1154011519}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &106882682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 106882680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: New Text
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
+  m_sharedMaterial: {fileID: 2140474, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 1118.4
+  m_fontSizeBase: 1118.4
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &106882683
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 106882680}
+  m_CullTransparentMesh: 1
 --- !u!1001 &107662927
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2702,6 +2886,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2983,6 +3171,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3105,6 +3297,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3226,6 +3422,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3354,6 +3554,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer2 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3475,6 +3679,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3598,6 +3806,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3720,6 +3932,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3841,6 +4057,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 533bdfb90dc5b184082d31caa4627912, type: 3}
       propertyPath: m_Name
       value: TestTube4
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 533bdfb90dc5b184082d31caa4627912, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3968,6 +4188,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4477,6 +4701,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket3 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4842,6 +5070,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4963,6 +5195,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
       propertyPath: m_Name
       value: Erlanmayer2 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5086,6 +5322,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube2 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5207,6 +5447,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5339,6 +5583,10 @@ PrefabInstance:
       value: Wall (13)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -5433,6 +5681,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5511,6 +5763,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 887749593372434103, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 1007011768790979787, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 1197356531869346529, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
       propertyPath: m_Color.b
       value: 1
@@ -5523,21 +5783,149 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: Radius
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: OrbitStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: TargetOffset.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: Orbits.Top.Height
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: Orbits.Top.Radius
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: VerticalAxis.Value
+      value: 17.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: HorizontalAxis.Value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: Orbits.Bottom.Height
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: Orbits.Bottom.Radius
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: Orbits.Center.Radius
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: Orbits.SplineCurvature
+      value: 0.483
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: TrackerSettings.PositionDamping.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: TrackerSettings.PositionDamping.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2014555506985113037, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: TrackerSettings.PositionDamping.z
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2128108808207399085, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
       propertyPath: m_Name
       value: Player (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4273431368473951073, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_ControllerManager.Controllers.Array.data[1].Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4714013521342510083, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956966966927020574, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.005888939
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956966966927020574, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956966966927020574, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.99411
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956966966927020574, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9673613
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956966966927020574, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.25340134
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956966966927020574, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1.559e-23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4956966966927020574, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -8.862019e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316401204051241092, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 5903540522852811324, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.005888939
       objectReference: {fileID: 0}
     - target: {fileID: 5903540522852811324, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5903540522852811324, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
       propertyPath: m_LocalPosition.z
       value: -3.99411
+      objectReference: {fileID: 0}
+    - target: {fileID: 5903540522852811324, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9673613
+      objectReference: {fileID: 0}
+    - target: {fileID: 5903540522852811324, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.25340134
+      objectReference: {fileID: 0}
+    - target: {fileID: 5903540522852811324, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1.424613e-23
+      objectReference: {fileID: 0}
+    - target: {fileID: 5903540522852811324, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -3.7317897e-24
       objectReference: {fileID: 0}
     - target: {fileID: 6095702918748644654, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
       propertyPath: m_Layer
       value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8132252966756060455, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8174596493556548898, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8483029025832117006, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 8839246358902266634, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5617,7 +6005,10 @@ PrefabInstance:
       objectReference: {fileID: 270906465}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 5266713332190164997, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1455941003}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
 --- !u!114 &270906465 stripped
@@ -5704,6 +6095,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5976,6 +6371,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6130,6 +6529,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6493,6 +6896,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6614,6 +7021,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
       propertyPath: m_Name
       value: TestTube (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6746,6 +7157,10 @@ PrefabInstance:
       value: Wall (10)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -6849,6 +7264,10 @@ PrefabInstance:
       value: Wall (7)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -6942,6 +7361,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7065,6 +7488,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7186,6 +7613,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7406,6 +7837,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7476,6 +7911,81 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 3161968333652300680, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+--- !u!1 &346810085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 346810086}
+  - component: {fileID: 346810088}
+  - component: {fileID: 346810087}
+  m_Layer: 5
+  m_Name: Fill
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &346810086
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 346810085}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1455941003}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 990, y: 270}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &346810087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 346810085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 0be9b1891cc534be892aac3d33bdfff1, type: 3}
+  m_Type: 3
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 0
+  m_FillAmount: 0
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &346810088
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 346810085}
+  m_CullTransparentMesh: 1
 --- !u!1001 &347656026
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7742,6 +8252,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer2 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7937,6 +8451,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8150,6 +8668,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8426,6 +8948,10 @@ PrefabInstance:
       value: Wall (6)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -8519,6 +9045,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8703,6 +9233,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9082,6 +9616,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9203,6 +9741,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9356,6 +9898,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 1019792896}
+  maxTime: 15
+  currentTime: 0
+  isPushed: 0
 --- !u!1 &442107710
 GameObject:
   m_ObjectHideFlags: 0
@@ -9402,12 +9947,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 442107710}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.98, y: 0.46142352, z: 3.33}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -113.25992, y: -988.17224, z: 3.33}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1624413297}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &448680744
 PrefabInstance:
@@ -9472,6 +10017,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
       propertyPath: m_Name
       value: Bucket3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9702,6 +10251,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9824,6 +10377,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9945,6 +10502,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10077,6 +10638,10 @@ PrefabInstance:
       value: Wall (14)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -10175,6 +10740,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10303,6 +10872,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube4 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 533bdfb90dc5b184082d31caa4627912, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10424,6 +10997,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
       propertyPath: m_Name
       value: Erlanmayer2 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10656,6 +11233,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10875,6 +11456,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11002,6 +11587,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11123,6 +11712,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
       propertyPath: m_Name
       value: Erlanmayer2 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11246,6 +11839,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube2 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11367,6 +11964,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
       propertyPath: m_Name
       value: TestTube2 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11567,6 +12168,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11689,6 +12294,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11810,6 +12419,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
       propertyPath: m_Name
       value: Erlanmayer2 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12020,6 +12633,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer2 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12141,6 +12758,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
       propertyPath: m_Name
       value: TestTube2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12482,6 +13103,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12718,6 +13343,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12839,6 +13468,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12988,6 +13621,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13110,6 +13747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13231,6 +13872,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13420,6 +14065,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13541,6 +14190,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13671,6 +14324,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_Name
       value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
@@ -13828,6 +14485,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13999,6 +14660,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14126,6 +14791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14251,6 +14920,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_Name
       value: Wall (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
@@ -14603,6 +15276,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14724,6 +15401,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14859,6 +15540,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14980,6 +15665,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15115,6 +15804,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket3 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15236,6 +15929,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15424,6 +16121,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15680,6 +16381,10 @@ PrefabInstance:
       value: Wall (8)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -15773,6 +16478,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15895,6 +16604,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16027,6 +16740,10 @@ PrefabInstance:
       value: Wall (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -16132,6 +16849,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
       propertyPath: m_Name
       value: Bucket (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16254,6 +16975,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16780,6 +17505,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16909,6 +17638,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_Name
       value: Wall (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
@@ -17177,6 +17910,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17265,6 +18002,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 1947840181}
+  maxTime: 15
+  currentTime: 0
+  isPushed: 0
 --- !u!1001 &838679705
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17408,6 +18148,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17529,6 +18273,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17750,6 +18498,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
       propertyPath: m_Name
       value: Bucket3 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17996,6 +18748,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18374,6 +19130,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube3 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18586,6 +19346,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18818,6 +19582,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19001,6 +19769,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19217,6 +19989,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
       propertyPath: m_Name
       value: Bucket3 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19437,6 +20213,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19558,6 +20338,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
       propertyPath: m_Name
       value: Erlanmayer2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19698,6 +20482,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3bda012338631a740a110f0c4492c890, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19768,6 +20556,75 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -4190733006186633700, guid: 3bda012338631a740a110f0c4492c890, type: 3}
+--- !u!1 &947569369
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 947569371}
+  - component: {fileID: 947569370}
+  - component: {fileID: 947569372}
+  m_Layer: 0
+  m_Name: Detector
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &947569370
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947569369}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 30, y: 1, z: 50}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!4 &947569371
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947569369}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -11.2, y: -0.35, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &947569372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947569369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e01b93f4c636cb4885fe750a3c0fd54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fillBar: {fileID: 346810087}
+  max: 100
+  current: 0
 --- !u!1 &947877678
 GameObject:
   m_ObjectHideFlags: 0
@@ -19814,12 +20671,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 947877678}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.21, y: 0.46142352, z: -6.74}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -123.48992, y: -988.17224, z: -6.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1624413297}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &959133111
 PrefabInstance:
@@ -19948,6 +20805,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20075,6 +20936,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20196,6 +21061,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20331,6 +21200,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20453,6 +21326,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20574,6 +21451,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20702,6 +21583,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube3 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20824,6 +21709,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20945,6 +21834,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21157,6 +22050,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21278,6 +22175,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21490,6 +22391,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21688,6 +22593,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21913,6 +22822,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22034,6 +22947,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22236,6 +23153,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket3 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22363,6 +23284,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22484,6 +23409,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
       propertyPath: m_Name
       value: TestTube
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22607,6 +23536,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube4 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 533bdfb90dc5b184082d31caa4627912, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -22728,6 +23661,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
       propertyPath: m_Name
       value: TestTube (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23005,6 +23942,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23204,6 +24145,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer2 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23337,6 +24282,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
       propertyPath: m_Name
       value: Bucket
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23472,6 +24421,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket3
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23605,6 +24558,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23790,6 +24747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23860,6 +24821,108 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -3104196497966405748, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+--- !u!1 &1154011515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1154011519}
+  - component: {fileID: 1154011518}
+  - component: {fileID: 1154011517}
+  - component: {fileID: 1154011516}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1154011516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1154011515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1154011517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1154011515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 1
+--- !u!223 &1154011518
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1154011515}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1154011519
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1154011515}
+  m_LocalRotation: {x: -0, y: -0.70710695, z: -0, w: 0.7071066}
+  m_LocalPosition: {x: 0, y: 0, z: -17.3}
+  m_LocalScale: {x: 0.001, y: 0.001, z: 0.001}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 106882681}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -16.698, y: 2.229}
+  m_SizeDelta: {x: 4293.888, y: 2415.3123}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1154830470
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23911,6 +24974,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 533bdfb90dc5b184082d31caa4627912, type: 3}
       propertyPath: m_Name
       value: TestTube4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 533bdfb90dc5b184082d31caa4627912, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24064,6 +25131,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 1019792896}
+  maxTime: 15
+  currentTime: 0
+  isPushed: 0
 --- !u!1001 &1164716408
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24123,6 +25193,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_Name
       value: Wall (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
@@ -24218,6 +25292,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24341,6 +25419,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24462,6 +25544,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
       propertyPath: m_Name
       value: TestTube (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24585,6 +25671,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24706,6 +25796,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
       propertyPath: m_Name
       value: TestTube (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24885,12 +25979,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1188135310}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.98, y: 0.46142352, z: -6.74}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -113.25992, y: -988.17224, z: -6.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1624413297}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1201622650 stripped
 Transform:
@@ -24979,6 +26073,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 1845844294}
+  maxTime: 15
+  currentTime: 0
+  isPushed: 0
 --- !u!1001 &1204161359
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25164,6 +26261,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25285,6 +26386,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25408,6 +26513,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25529,6 +26638,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25781,6 +26894,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer2 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25915,6 +27032,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26036,6 +27157,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
       propertyPath: m_Name
       value: Erlanmayer2 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26159,6 +27284,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26280,6 +27409,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26492,6 +27625,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26614,6 +27751,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26735,6 +27876,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26966,6 +28111,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27350,6 +28499,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27678,6 +28831,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -27974,6 +29131,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28223,6 +29384,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 1815944898}
+  maxTime: 15
+  currentTime: 0
+  isPushed: 0
 --- !u!1001 &1382560031
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28654,6 +29818,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28775,6 +29943,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
       propertyPath: m_Name
       value: Erlanmayer2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29146,6 +30318,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29359,13 +30535,89 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1451503479}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.21, y: 0.46142352, z: 3.33}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -123.48992, y: -988.17224, z: 3.33}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1624413297}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1455941002
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1455941003}
+  - component: {fileID: 1455941005}
+  - component: {fileID: 1455941004}
+  m_Layer: 5
+  m_Name: FillBack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1455941003
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1455941002}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 346810086}
+  m_Father: {fileID: 2016837032}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -20, y: 0}
+  m_SizeDelta: {x: 50, y: 1000}
+  m_Pivot: {x: 1, y: 0.5}
+--- !u!114 &1455941004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1455941002}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: fd6af17d46ffb4b089afbdb76de6a813, type: 3}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 8
+--- !u!222 &1455941005
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1455941002}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1460347770
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29417,6 +30669,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29570,6 +30826,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 919132147524190097}
+  maxTime: 15
+  currentTime: 0
+  isPushed: 0
 --- !u!1 &1466171786 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5683445824205317102, guid: 645ea6c41bc96d14c8a8bda831f1594f, type: 3}
@@ -29588,6 +30847,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 1815944898}
+  maxTime: 15
+  currentTime: 0
+  isPushed: 0
 --- !u!1001 &1487239872
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29986,6 +31248,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30286,6 +31552,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30415,6 +31685,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_Name
       value: Wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
@@ -30620,6 +31894,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30753,6 +32031,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
       propertyPath: m_Name
       value: Bucket3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31029,6 +32311,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31156,6 +32442,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31278,6 +32568,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31399,6 +32693,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31611,6 +32909,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31745,6 +33047,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31867,6 +33173,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31988,6 +33298,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32173,6 +33487,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32243,6 +33561,43 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 3161968333652300680, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+--- !u!1 &1624413296
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1624413297}
+  m_Layer: 0
+  m_Name: MiniMapRooms
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1624413297
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1624413296}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 104.27992, y: 988.63367, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1926685930}
+  - {fileID: 1789038166}
+  - {fileID: 947877680}
+  - {fileID: 1188135312}
+  - {fileID: 1451503481}
+  - {fileID: 442107712}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1625276825
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32398,6 +33753,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32519,6 +33878,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32744,6 +34107,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer2 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32878,6 +34245,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33000,6 +34371,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33121,6 +34496,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33321,6 +34700,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube4
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 533bdfb90dc5b184082d31caa4627912, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33442,6 +34825,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33577,6 +34964,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33699,6 +35090,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -33820,6 +35215,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34039,6 +35438,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
       propertyPath: m_Name
       value: TestTube2 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34395,6 +35798,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34516,6 +35923,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34639,6 +36050,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34760,6 +36175,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34883,6 +36302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -35004,6 +36427,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
       propertyPath: m_Name
       value: TestTube2 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35127,6 +36554,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube2
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3ce97ef2dec38424094de00a38977833, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -35248,6 +36679,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35380,6 +36815,10 @@ PrefabInstance:
       value: Wall (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -35473,6 +36912,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
       propertyPath: m_Name
       value: TestTube (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35687,6 +37130,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -35871,6 +37318,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -35987,12 +37438,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1789038164}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.850667, y: 0.46142352, z: -12.73}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -117.13059, y: -988.17224, z: -12.73}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1624413297}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1793620286
 PrefabInstance:
@@ -36057,6 +37508,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
       propertyPath: m_Name
       value: Bucket (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36184,6 +37639,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36318,6 +37777,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36547,6 +38010,10 @@ PrefabInstance:
       value: Wall (5)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -36667,6 +38134,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36789,6 +38260,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36974,6 +38449,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37100,6 +38579,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37234,6 +38717,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37384,6 +38871,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37505,6 +38996,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37640,6 +39135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -37773,6 +39272,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37970,6 +39473,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38092,6 +39599,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer4 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38213,6 +39724,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38347,6 +39862,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
       propertyPath: m_Name
       value: Bucket3 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38539,6 +40058,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38660,6 +40183,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
       propertyPath: m_Name
       value: Erlanmayer2 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38845,6 +40372,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer3 (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38966,6 +40497,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39218,6 +40753,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket4 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -39349,6 +40888,10 @@ PrefabInstance:
       value: Wall (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -39442,6 +40985,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
       propertyPath: m_Name
       value: Erlanmayer2 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 04921d4bc01a8764caada5bc02e476bf, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39576,6 +41123,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
       propertyPath: m_Name
       value: Bucket3 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39853,12 +41404,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1926685928}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.850667, y: 0.46142352, z: -19.1053}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -117.13059, y: -988.17224, z: -19.1053}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1624413297}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1930116509
 PrefabInstance:
@@ -39911,6 +41462,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
       propertyPath: m_Name
       value: TestTube3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40193,6 +41748,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40326,6 +41885,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
       propertyPath: m_Name
       value: Bucket4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f64eda1523a1281458523cbb9236f44f, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40481,6 +42044,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Erlanmayer (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40602,6 +42169,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40911,6 +42482,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -41032,6 +42607,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41160,6 +42739,10 @@ PrefabInstance:
       value: Wall (9)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -41265,6 +42848,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
       propertyPath: m_Name
       value: Bucket (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d074af38b5c5a9146a191fdb213215e9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41451,6 +43038,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 1845844294}
+  maxTime: 15
+  currentTime: 0
+  isPushed: 0
 --- !u!1001 &2013537440
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41502,6 +43092,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41625,6 +43219,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -41695,6 +43293,11 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -2659785137198720376, guid: 4dd27d54529247e4bbfc30085ef33a05, type: 3}
+--- !u!224 &2016837032 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 5266713332190164997, guid: b39b3d422f080294fa1489fff40aa4b9, type: 3}
+  m_PrefabInstance: {fileID: 270906464}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2018812629 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5683445824205317102, guid: 645ea6c41bc96d14c8a8bda831f1594f, type: 3}
@@ -41713,6 +43316,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   door: {fileID: 1947840181}
+  maxTime: 15
+  currentTime: 0
+  isPushed: 0
 --- !u!1001 &2031956947
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41826,6 +43432,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
       propertyPath: m_Name
       value: Erlanmayer3 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7b4e6645f7adf2e46808e17407e99bf9, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41991,6 +43601,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
       propertyPath: m_Name
       value: Erlanmayer4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eebacd0c437fdb14b89f26db07432c14, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42302,6 +43916,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestTube3 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 09793a3235424e34882525bd933a4119, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -42423,6 +44041,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
       propertyPath: m_Name
       value: Erlanmayer (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b73880457d2f9214abbc8ce3fc234c18, type: 3}
+      propertyPath: m_TagString
+      value: Objects
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42697,6 +44319,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bucket3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9c1d2d4ddcdc1447831fa4c7ef7bf59, type: 3}
+      propertyPath: m_TagString
+      value: Objects
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -42828,6 +44454,10 @@ PrefabInstance:
       value: Wall (12)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ef811f9e724d9224a840d83a61d55e44, type: 3}
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
@@ -42870,6 +44500,85 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 6, y: 4.9870796, z: 0.28673172}
   m_Center: {x: 0.0000009536743, y: 2.4983163, z: -0.00000047683716}
+--- !u!1 &2122960283
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2122960286}
+  - component: {fileID: 2122960285}
+  - component: {fileID: 2122960284}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2122960284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2122960283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01614664b831546d2ae94a42149d80ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
+  m_MoveRepeatDelay: 0.5
+  m_MoveRepeatRate: 0.1
+  m_XRTrackingOrigin: {fileID: 0}
+  m_ActionsAsset: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_PointAction: {fileID: -1654692200621890270, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_MoveAction: {fileID: -8784545083839296357, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_SubmitAction: {fileID: 392368643174621059, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_CancelAction: {fileID: 7727032971491509709, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_LeftClickAction: {fileID: 3001919216989983466, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_MiddleClickAction: {fileID: -2185481485913320682, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_RightClickAction: {fileID: -4090225696740746782, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_ScrollWheelAction: {fileID: 6240969308177333660, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_TrackedDevicePositionAction: {fileID: 6564999863303420839, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_TrackedDeviceOrientationAction: {fileID: 7970375526676320489, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_DeselectOnBackgroundClick: 1
+  m_PointerBehavior: 0
+  m_CursorLockBehavior: 0
+  m_ScrollDeltaPerTick: 6
+--- !u!114 &2122960285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2122960283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &2122960286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2122960283}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2134869472
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -43634,10 +45343,8 @@ SceneRoots:
   - {fileID: 1389080007}
   - {fileID: 33928344}
   - {fileID: 270906464}
-  - {fileID: 1926685930}
-  - {fileID: 1789038166}
-  - {fileID: 947877680}
-  - {fileID: 1188135312}
-  - {fileID: 1451503481}
-  - {fileID: 442107712}
   - {fileID: 286197961}
+  - {fileID: 1624413297}
+  - {fileID: 947569371}
+  - {fileID: 2122960286}
+  - {fileID: 1154011519}

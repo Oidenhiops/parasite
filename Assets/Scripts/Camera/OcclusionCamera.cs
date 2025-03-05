@@ -7,14 +7,14 @@ public class OcclusionCamera : MonoBehaviour
     {
         if (other.CompareTag("Wall"))
         {
-            other.GetComponent<MeshRenderer>().material.color = occlusionColor;
+            other.GetComponent<MeshRenderer>().enabled = false;
         }
     }
     void OnTriggerExit(Collider other)
     {
         if (other.CompareTag("Wall"))
         {
-            other.GetComponent<MeshRenderer>().material.color = Color.white;
+            other.GetComponent<MeshRenderer>().enabled = true;
         }
     }
 }
