@@ -6,6 +6,7 @@ TagManager:
   tags:
   - RigthHand
   - MiniMap
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -14,8 +15,8 @@ TagManager:
   - Water
   - UI
   - Ragdoll
-  - 
-  - 
+  - Camera
+  - MiniMap
   - 
   - 
   - 
