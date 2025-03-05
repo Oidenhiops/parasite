@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - RigthHand
+  - MiniMap
   layers:
   - Default
   - TransparentFX
