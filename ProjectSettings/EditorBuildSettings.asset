@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: b04e0f2de820e1a409d62042197b1cb7
   - enabled: 1
+    path: Assets/Scenes/LabLevel.unity
+    guid: 7aeede4ba8795ae4fa796ed8dc315157
+  - enabled: 1
     path: Assets/Scenes/Pause.unity
     guid: 2cac6b2f1b8ea574191c1cb938e4a168
   - enabled: 1

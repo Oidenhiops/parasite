@@ -1,100 +1,78 @@
-using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MenuOptions : MonoBehaviour
 {
-    public GameObject ObjetoMenuPausa;
-    public bool Pausa;
-    public GameObject PauseButton;  
-    public GameObject GrupoPausa;    
-    public GameObject GrupoSalir;    
-    public GameObject GrupoSettings; 
+    public GameObject ObjetoMenuPausa;  // Contenedor del menú de pausa
+    public GameObject PauseButton;      // Botón de pausa
+    public GameObject GrupoPausa;       // Panel del menú de pausa
+    public GameObject GrupoSalir;       // Panel de salida
+    public GameObject GrupoSettings;    // Panel de configuración
+    private bool isPaused = false;      // Controla si el juego está pausado
 
-    //gestiona la apertura y cierre del menú de pausa o configuración cuando el jugador presiona la tecla Escape.
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (GrupoSettings.activeSelf)
+            if (isPaused)
             {
-                CloseAllMenus(); 
+                CloseAllMenus();
             }
             else
             {
-                TogglePauseMenu(); 
+                OpenPauseMenu();
             }
         }
     }
 
-    //activa el menú de pausa y detiene el tiempo en el juego.
-    public void PausarJuego()
-    {        
+    // Método para abrir el menú de pausa desde el botón o con Escape
+    public void OpenPauseMenu()
+    {
+        isPaused = true;
+        Time.timeScale = 0; // PAUSA EL TIEMPO
+        ObjetoMenuPausa.SetActive(true);
         GrupoPausa.SetActive(true);
         GrupoSalir.SetActive(false);
         GrupoSettings.SetActive(false);
-        PauseButton.SetActive(false);
-        ObjetoMenuPausa.SetActive(true);
-        Pausa = true;
-        Time.timeScale = 0;
+        PauseButton.SetActive(false); // Ocultar el botón de pausa
     }
 
-    //desactiva el menú de pausa y reanuda el juego.
-    public void Reanudar()
+    // Método para cerrar todos los menús y reanudar el juego
+    public void CloseAllMenus()
     {
+        isPaused = false;
+        Time.timeScale = 1; // REANUDA EL TIEMPO
+        ObjetoMenuPausa.SetActive(false);
         GrupoPausa.SetActive(false);
         GrupoSalir.SetActive(false);
         GrupoSettings.SetActive(false);
         PauseButton.SetActive(true);
-        Pausa = false;
-        Time.timeScale = 1;
     }
 
-    //carga una nueva escena según el nombre que se le pase como parámetro.
-    public void PlayGame(string NameScene)
-    {
-        SceneManager.LoadScene(NameScene);
-    }
-
-    //sirve para cerrar el juego en una compilación ejecutable (Windows, Mac, Android, etc.) (Osea que en itch.io, está de decoración :(, pero igual lo puse por si mas adelante).
-    public void Quit()
-    {
-        Application.Quit();
-    }
-
-    //carga una escena, (MainMenu) y reanuda el tiempo del juego si estaba pausado.
-    public void IrAlMenu(string NombreMenu)
-    {
-        Time.timeScale = 1;
-        SceneManager.LoadScene(NombreMenu, LoadSceneMode.Single);
-    }
-
-    //alterna el estado del menú de pausa y ajusta el tiempo del juego en consecuencia.
-    private void TogglePauseMenu()
-    {
-        if (GrupoSettings.activeSelf) return; 
-
-        bool isPaused = GrupoPausa.activeSelf;  
-
-        PauseButton.SetActive(isPaused);
-        GrupoPausa.SetActive(!isPaused);
-        Time.timeScale = isPaused ? 1 : 0;
-    }
-
-    //abre el menú de configuración desde el menú de pausa.
+    // Método para abrir el menú de configuración desde el menú de pausa
     public void OpenSettings()
     {
-        PauseButton.SetActive(false);
         GrupoPausa.SetActive(false);
         GrupoSettings.SetActive(true);
     }
 
-    //cierra todos los menús y reanuda el juego
-    private void CloseAllMenus()
+    // Método para cerrar el menú de configuración y volver al menú de pausa
+    public void CloseSettings()
     {
-        PauseButton.SetActive(true);
-        GrupoPausa.SetActive(false);
         GrupoSettings.SetActive(false);
+        GrupoPausa.SetActive(true);
+    }
+
+    // Método para reanudar el juego desde el botón de reanudar
+    public void Reanudar()
+    {
+        CloseAllMenus();
+    }
+
+    // Método para cargar otra escena y reanudar el tiempo si estaba pausado
+    public void IrAlMenu(string NombreMenu)
+    {
         Time.timeScale = 1;
+        SceneManager.LoadScene(NombreMenu, LoadSceneMode.Single);
     }
 }
