@@ -5,22 +5,31 @@ public class FullScreen : MonoBehaviour
 {
     public Toggle toggle;
 
-    //sincroniza un Toggle con el estado de pantalla completa al iniciar el juego.
     void Start()
     {
-        if (Screen.fullScreen)
+        // Cargar el estado guardado (por defecto es pantalla completa si no hay datos)
+        bool pantallaCompleta = PlayerPrefs.GetInt("PantallaCompleta", 1) == 1;
+        Screen.fullScreen = pantallaCompleta;
+
+        if (toggle != null)
         {
-            toggle.isOn = true;
-        }
-        else
-        {
-            toggle.isOn = false;
+            toggle.isOn = pantallaCompleta;
+            toggle.onValueChanged.AddListener(ActivarPantallaCompleta);
         }
     }
 
-    //permite cambiar entre pantalla completa y ventana según la preferencia del usuario.
     public void ActivarPantallaCompleta(bool pantallaCompleta)
     {
         Screen.fullScreen = pantallaCompleta;
+        PlayerPrefs.SetInt("PantallaCompleta", pantallaCompleta ? 1 : 0);
+        PlayerPrefs.Save();
+    }
+
+    void OnDestroy()
+    {
+        if (toggle != null)
+        {
+            toggle.onValueChanged.RemoveListener(ActivarPantallaCompleta);
+        }
     }
 }
