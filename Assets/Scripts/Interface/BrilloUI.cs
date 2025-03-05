@@ -31,7 +31,8 @@ public class BrilloUI : MonoBehaviour
     {
         if (panelBrillo != null)
         {
-            panelBrillo.color = new Color(panelBrillo.color.r, panelBrillo.color.g, panelBrillo.color.b, valor);
+            float alpha = 0.7f - valor; // Invertimos la relación
+            panelBrillo.color = new Color(panelBrillo.color.r, panelBrillo.color.g, panelBrillo.color.b, alpha);
         }
     }
 }
