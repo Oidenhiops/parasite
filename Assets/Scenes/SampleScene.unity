@@ -888,7 +888,6 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
-<<<<<<< HEAD
 --- !u!114 &330585548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -921,8 +920,6 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
   CustomBlends: {fileID: 0}
-=======
->>>>>>> 4c8bc03 (LabPack1)
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
