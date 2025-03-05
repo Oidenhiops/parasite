@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -9,9 +10,12 @@ public class PlayerMovement : MonoBehaviour
     Vector3 camForward;
     Vector3 camRight;
     public float speed;
+    public float baseSpeed;
     public float lerpSpeed;
+    public Image fillBar;
     public void Move()
     {
+        speed = baseSpeed + baseSpeed * fillBar.fillAmount;
         Vector3 inputs = new Vector3(managementPlayer.managementPlayerInputs.playerInputs.movement.x, 0, managementPlayer.managementPlayerInputs.playerInputs.movement.y);
         if (inputs != Vector3.zero)
         {

@@ -18,6 +18,7 @@ public class ManagementClock : MonoBehaviour
             {
                 currentTimeToAppear = timeToAppear;
                 clock.SetActive(true);
+                GetComponent<Collider>().enabled = true;
             }
         }
     }
@@ -26,6 +27,8 @@ public class ManagementClock : MonoBehaviour
         if (other.CompareTag("Player") || other.CompareTag("RigthHand"))
         {
             clock.SetActive(false);
+            GetComponent<Collider>().enabled = false;
+            other.transform.root.GetComponent<ManagementPlayer>().managementPlayerHud.UpdateSeconds(10);
         }
     }
 }

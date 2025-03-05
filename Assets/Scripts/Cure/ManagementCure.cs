@@ -8,6 +8,7 @@ public class ManagementCure : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            other.transform.root.GetComponent<ManagementPlayer>().managementPlayerHud.AddPoints(100);
             gameObject.SetActive(false);
         }
     }

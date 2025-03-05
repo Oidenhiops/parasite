@@ -69,6 +69,10 @@ public class MenuOptions : MonoBehaviour
         CloseAllMenus();
     }
 
+    public void Reload(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
     // Método para cargar otra escena y reanudar el tiempo si estaba pausado
     public void IrAlMenu(string NombreMenu)
     {
