@@ -795,7 +795,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2082063038129997155, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -172.70001
+      value: -217.70001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2140208387200849872, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
+      propertyPath: m_Color.b
+      value: 0.25882354
+      objectReference: {fileID: 0}
+    - target: {fileID: 2140208387200849872, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
+      propertyPath: m_Color.g
+      value: 0.10588236
+      objectReference: {fileID: 0}
+    - target: {fileID: 2140208387200849872, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
+      propertyPath: m_Color.r
+      value: 0.30588236
       objectReference: {fileID: 0}
     - target: {fileID: 2265845057290194582, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
       propertyPath: m_Color.b
@@ -827,7 +839,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2382155088578807027, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -302.69998
+      value: -347.69998
       objectReference: {fileID: 0}
     - target: {fileID: 2698710313750034660, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1003,7 +1015,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5753321726824609078, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 29
+      value: -16
       objectReference: {fileID: 0}
     - target: {fileID: 6393541198914494284, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
       propertyPath: m_Color.b
@@ -1151,7 +1163,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8061084765644454026, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -264
+      value: -309
       objectReference: {fileID: 0}
     - target: {fileID: 8175993035559713803, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -1188,7 +1200,7 @@ PrefabInstance:
       insertIndex: 0
       addedObject: {fileID: 2025935345}
     - targetCorrespondingSourceObject: {fileID: 1910633447687830146, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
-      insertIndex: 1
+      insertIndex: -1
       addedObject: {fileID: 1746249313}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1713115750095755982, guid: 68cf5bccf998a304db6f635f751daa84, type: 3}
