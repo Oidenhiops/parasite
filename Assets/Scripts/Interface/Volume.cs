@@ -3,7 +3,6 @@ using UnityEngine.UI;
 public class Volume : MonoBehaviour
 {
     public Slider slider;
-    public float sliderValue;
     public Image imageMute;
 
     //carga el volumen guardado y lo aplica al audio del juego.
@@ -17,8 +16,7 @@ public class Volume : MonoBehaviour
     //actualiza el volumen del juego cuando el usuario ajusta el slider.
     public void ChangeSlider(float valor)
     {
-        sliderValue = valor;
-        PlayerPrefs.SetFloat("volumenAudio", sliderValue);
+        PlayerPrefs.SetFloat("volumenAudio", slider.value);
         AudioListener.volume = slider.value;
         VerMute();
     }
@@ -26,7 +24,7 @@ public class Volume : MonoBehaviour
     //controla la visibilidad del icono de muteo según el volumen del juego.
     public void VerMute()
     {
-        if (sliderValue == 0)
+        if (slider.value == 0)
         {
             imageMute.enabled = true;
         }

@@ -18,6 +18,7 @@ public class BrilloManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        SetBrillo(PlayerPrefs.GetFloat("Brillo"));
     }
 
     //actualiza y guarda el nivel de brillo en (PlayerPrefs)
